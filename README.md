@@ -8,9 +8,9 @@ The full study is based on 24,547 accepted biomedical PLOS ONE articles. This pu
 
 | File | Level | Description |
 |---|---|---|
-| `paper_level_dataset_sample200.csv` | Paper | Paper metadata, disruption scores, review-process measures, and controls. |
-| `round_level_dataset_sample200.csv` | Review round | Round-level timing, reviewer counts, comment counts, and author-response timing. |
-| `reviewer_comment_aspects_sample200.csv` | Sentence | Reviewer-comment sentences with aspect and sentiment labels. |
+| `paper_level_dataset_sample.csv` | Paper | Paper metadata, disruption scores, review-process measures, and controls. |
+| `round_level_dataset_sample.csv` | Review round | Round-level timing, reviewer counts, comment counts, and author-response timing. |
+| `reviewer_comment_aspects_sample.csv` | Sentence | Reviewer-comment sentences with aspect and sentiment labels. |
 
 All files can be linked by `doi`. The round-level and sentence-level files also include `review_round`.
 
